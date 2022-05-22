@@ -16,6 +16,12 @@ use Symfony\Component\Routing\Matcher\UrlMatcher;
 use Symfony\Component\Routing\RequestContext;
 use Symfony\Component\Routing\RouteCollection;
 
+/*
+1 задание, это Front Controller, где он передает все запросы, полученные из индекса фреймворку Symfony
+*/
+
+
+
 class Kernel
 {
     /**

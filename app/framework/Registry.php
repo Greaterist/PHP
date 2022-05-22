@@ -9,6 +9,10 @@ use Symfony\Component\Routing\Generator\UrlGenerator;
 use Symfony\Component\Routing\RequestContext;
 use Symfony\Component\Routing\RouteCollection;
 
+/*
+2 задание, паттерн Registry (в принципе из названия понятно), используется в Render.php для работы авторизации.
+*/
+
 class Registry
 {
     /**
